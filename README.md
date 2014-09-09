@@ -1,4 +1,6 @@
-# Koa Stream To File (based on koa-save-to-file ==> https://github.com/jonathanong/koa-save-to-file)
+# Koa Stream To File 
+
+based on koa-save-to-file ==> https://github.com/jonathanong/koa-save-to-file
 
 Compatible with koa-scaffold stream to file saver. Useful when trying to upload streams f.e. with content-type "image/jpeg"
 or similar. 
