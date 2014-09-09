@@ -1,0 +1,37 @@
+{
+  "name": "koa-stream-to-file",
+  "description": "Save a (request) stream to a file",
+  "version": "0.0.1",
+  "author": {
+    "name": "Unicorn-IT",
+    "email": "kontakt@unicorn-it.de",
+    "url": "http://unicorn-it.de"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/unicorn-it/koa-stream-to-file.git"
+  },
+  "bugs": {
+    "url": "https://github.com/unicorn-it/koa-stream-to-file/issues"
+  },
+  "dependencies": {
+    "save-to": "~0.0.4"
+  },
+  "peerDependencies": {
+    "koa": "*"
+  },
+  "devDependencies": {
+    "co-mocha": "*",
+    "expect.js": "~0.3.1"
+  },
+  "scripts": {
+    "test": "make"
+  },
+  "engines": {
+    "node": "> 0.11.4"
+  },
+  "readmeFilename": "README.md",
+  "homepage": "https://github.com/unicorn-it/koa-stream-to-file",
+  "_id": "koa-stream-to-file@0.0.1"
+}
